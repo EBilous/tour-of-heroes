@@ -1,5 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
-import app-registration.background-image.registration-form.registration-container {
+.registration-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -62,4 +61,3 @@ import app-registration.background-image.registration-form.registration-containe
 .login-button:hover {
   background-color: #0056b3;
 }
-
