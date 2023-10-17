@@ -32,7 +32,6 @@ export class RegistrationComponent {
   };
 
   register() {
-
     console.log('Registration data:', this.formData);
     // You can send the registration data to your backend API
   }
